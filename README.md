@@ -1,10 +1,5 @@
 <h1 align="left">Welcome!</h1>
 
-###
-
-<h4 align="left">I am a young programmer from Russia</h4>
-
-###
 
 <h2 align="left">About me</h2>
 
