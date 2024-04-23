@@ -41,3 +41,5 @@
 </div>
 
 ###
+
+<h2 align="left">Team: <a href="https://github.com/Garlic-Toasts">Garlic Toasts</a></h2>
