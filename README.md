@@ -42,4 +42,4 @@
 
 ###
 
-<h2 align="left">Team: <a href="https://github.com/Garlic-Toasts">Garlic Toasts</a></h2>
+<h2 align="left">Member of: <a href="https://github.com/Garlic-Toasts">Garlic Toasts</a></h2>
