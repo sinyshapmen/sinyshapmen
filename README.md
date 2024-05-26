@@ -43,3 +43,5 @@
 ###
 
 <h2 align="left">Member of: <a href="https://github.com/Garlic-Toasts">Garlic Toasts</a></h2>
+
+<h2> <a href="https://docs.google.com/document/d/1BJ5YjnfJuVN_8ULQwimZdBmDdNcU1uJtJXffLh0d-i0/edit">CV</a></h2>
