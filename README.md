@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Been programming since 2022<br><br>👨🏻‍🎓 Studying in New School and Yandex<br><br>📚 Currently learning Data Analysis/ML<br><br>💻 I have been on an internship in VK<br><br>🏆 I have participated in several Olympiads and Hackatons<br><br>⚽️ I love playing football and support:<br>💙❤️ FC Barcelona<br>🤍💙 FC Dynamo Moscow</p>
+<p align="left">👨🏻‍💻 Been programming since 2022<br><br>👨🏻‍🎓 Studying in New School and Yandex<br><br>📚 Currently learning Data Analysis/ML<br><br>💻 I have been on an internship in VK<br><br>🏆 I have participated in several Olympiads and Hackathons<br><br>⚽️ I love playing football and support:<br>💙❤️ FC Barcelona<br>🤍💙 FC Dynamo Moscow</p>
 
 ###
 
