@@ -1,47 +1,107 @@
-<h1 align="left">Welcome!</h1>
+<h1 align="center">Hey there 👋 I'm Evgeny</h1>
 
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👨🏻‍💻 Been programming since 2022<br><br>👨🏻‍🎓 Studying in New School and Yandex<br><br>📚 Currently learning Data Analysis/ML<br><br>💻 I have been on an internship in VK<br><br>🏆 I have participated in several Olympiads and Hackathons<br><br>⚽️ I love playing football and support:<br>💙❤️ FC Barcelona<br>🤍💙 FC Dynamo Moscow</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=ML+Enthusiast+%7C+Data+Lover+%7C+Football+Fan;Coding+since+2022+%F0%9F%92%BB;Interned+at+VK+%F0%9F%92%BC;Studying+at+Yandex+School+and+New+School;Building+Projects+in+ML%2C+DS+and+AI;Dreaming+big%2C+learning+daily+%F0%9F%8C%9F;Open+to+collaboration+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-###
+---
 
-<h2 align="left">Contact me</h2>
+### 🧠 About Me
 
-###
+- 👨‍🎓 Graduated from [**New School**](https://home.n.school)
+- 🧑‍💻 Interned at [**VK**](https://vk.com/about)
+- 💡 Interested in **Machine Learning**, **Data Analysis**, and **AI**
+- 🏆 Participated in Olympiads & Hackathons
+
+---
+
+### ⚽ Football Fan
+
+<div align="left">
+  <a href="https://www.fcbarcelona.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" height="50" alt="Barcelona"/>
+  </a>
+  <img width="20"/>
+ <a href="https://fcdm.ru/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/FC_Dynamo_Moscow_logo.svg/120px-FC_Dynamo_Moscow_logo.svg.png" height="50" alt="Dynamo Moscow"/>
+</a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinyshapmen&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=My+GitHub+Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyshapmen&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinyshapmen/sinyshapmen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinyshapmen/sinyshapmen/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/sinyshapmen/sinyshapmen/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🛠️ Currently Working On
+
+- 🏫 **NS Alumni** — a website for school alumni to share where they study/work and stay connected with the community  
+  *(private repository)*
+
+---
+
+### 🚀 Check Out My Projects
+
+- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist-digit-recognition) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
+
+---
+
+### 👥 Member of:
+[Garlic Toasts 🍞](https://github.com/Garlic-Toasts)
+
+---
+
+### 📬 Contact Me
 
 <div align="left">
   <a href="https://t.me/sinyshapmen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/evgenybobrovsky30?igsh=cTNjenhpbmFlbGM3&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sinyshapmen@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Member of: <a href="https://github.com/Garlic-Toasts">Garlic Toasts</a></h2>
+### 📄 [My CV](https://docs.google.com/document/d/1BJ5YjnfJuVN_8ULQwimZdBmDdNcU1uJtJXffLh0d-i0/edit)
 
-<h2> <a href="https://docs.google.com/document/d/1BJ5YjnfJuVN_8ULQwimZdBmDdNcU1uJtJXffLh0d-i0/edit">CV</a></h2>
+
+
+
+
