@@ -74,7 +74,7 @@
 
 ### 🚀 Check Out My Projects
 
-- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist-digit-recognition) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
+- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
 
 ---
 
