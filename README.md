@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Evgeny</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=ML+Enthusiast+%7C+Data+Lover+%7C+Football+Fan;Coding+since+2022+%F0%9F%92%BB;Interned+at+VK+%F0%9F%92%BC;Studying+at+Yandex+School+and+New+School;Building+Projects+in+ML%2C+DS+and+AI;Dreaming+big%2C+learning+daily+%F0%9F%8C%9F;Open+to+collaboration+%F0%9F%92%BB" alt="Typing SVG" />
