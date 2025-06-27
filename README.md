@@ -23,7 +23,7 @@
   </a>
   <img width="20"/>
  <a href="https://fcdm.ru/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/FC_Dynamo_Moscow_logo.svg/120px-FC_Dynamo_Moscow_logo.svg.png" height="50" alt="Dynamo Moscow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Dynamo_Moscow_logo.svg/320px-Dynamo_Moscow_logo.svg.png" height="50" alt="Dynamo Moscow"/>
 </a>
 
 </div>
