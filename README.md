@@ -44,6 +44,15 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sinyshapmen/sinyshapmen/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
