@@ -15,21 +15,6 @@
 
 ---
 
-### ⚽ Football Fan
-
-<div align="left">
-  <a href="https://www.fcbarcelona.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" height="50" alt="Barcelona"/>
-  </a>
-  <img width="20"/>
- <a href="https://fcdm.ru/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Dynamo_Moscow_logo.svg/320px-Dynamo_Moscow_logo.svg.png" height="50" alt="Dynamo Moscow"/>
-</a>
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="left">
