@@ -45,13 +45,6 @@
 
 ---
 
-### 🛠️ Currently Working On
-
-- 🏫 **NS Alumni** — a website for school alumni to share where they study/work and stay connected with the community  
-  *(private repository)*
-
----
-
 ### 🚀 Check Out My Projects
 
 - 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
