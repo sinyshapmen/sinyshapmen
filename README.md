@@ -42,7 +42,7 @@
   <a href="https://www.instagram.com/evgenybobrovsky30?igsh=cTNjenhpbmFlbGM3&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:sinyshapmen@proton.me" target="_blank">
+  <a href="evgenybobrovskyit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white"/>
   </a>
 </div>
