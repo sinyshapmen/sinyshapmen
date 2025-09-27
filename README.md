@@ -27,32 +27,9 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sinyshapmen/sinyshapmen/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinyshapmen&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=My+GitHub+Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyshapmen&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
----
-
 ### 🚀 Check Out My Projects
 
 - 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
-
----
-
-### 👥 Member of:
-[Garlic Toasts 🍞](https://github.com/Garlic-Toasts)
 
 ---
 
