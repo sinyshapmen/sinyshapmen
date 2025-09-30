@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 👨‍🎓 Graduated from [**New School**](https://home.n.school)
+- 👨‍🎓 Student at [**MIPT**](https://mipt.ru)
 - 🧑‍💻 Interned at [**VK**](https://vk.com/about)
 - 💡 Interested in **Machine Learning**, **Data Analysis**, and **AI**
 - 🏆 Participated in Olympiads & Hackathons
@@ -29,7 +29,8 @@
 
 ### 🚀 Check Out My Projects
 
-- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN) — a clean, well-structured PyTorch project with Docker, logging, configs, and inference mode
+- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN)
+- 🗺️ [Alumni Map](https://map.n.foundation)
 
 ---
 
