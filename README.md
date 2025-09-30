@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 👨‍🎓 Student at [**MIPT**](https://mipt.ru)
+- 👨‍🎓 Student at [**MIPT**](https://mipt.ru/institute)
 - 🧑‍💻 Interned at [**VK**](https://vk.com/about)
 - 💡 Interested in **Machine Learning**, **Data Analysis**, and **AI**
 - 🏆 Participated in Olympiads & Hackathons
