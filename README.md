@@ -8,10 +8,9 @@
 
 ### 🧠 About Me
 
-- 👨‍🎓 Student at [**MIPT**](https://mipt.ru/institute)
-- 🧑‍💻 Interned at [**VK**](https://vk.com/about)
-- 💡 Interested in **Machine Learning**, **Data Analysis**, and **AI**
-- 🏆 Participated in Olympiads & Hackathons
+- Student at [**MIPT**](https://mipt.ru/institute)
+- Interested in **Machine Learning**, **Data Analysis**, and **AI**
+- Participated in Olympiads & Hackathons
 
 ---
 
@@ -29,8 +28,8 @@
 
 ### 🚀 Check Out My Projects
 
-- 🧠 [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN)
-- 🗺️ [Alumni Map](https://map.n.foundation)
+- [Digit Recognition with CNN (MNIST)](https://github.com/sinyshapmen/mnist_CNN)
+- [Alumni Map](https://map.n.foundation)
 
 ---
 
